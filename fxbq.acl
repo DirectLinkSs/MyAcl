@@ -12,7 +12,8 @@
 bangumi.bilibili.com
 ## 网易云音乐
 # music.163.com
-mr.da.netease.com
+mam.netease.com
+(^|\.)netease\.com$
 
 ## QQ音乐
 (^|\.)qq\.com$
