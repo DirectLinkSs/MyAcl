@@ -16,7 +16,8 @@ bangumi.bilibili.com
 
 ## QQ音乐
 (^|\.)*\.qq\.com$
-
+(^|\.)*\.*\.qq\.com$
+(^|\.)*\.*\.*\.qq\.com$
 
 ## 优酷
 ### acs.youku.com
