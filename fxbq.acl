@@ -13,23 +13,7 @@ bangumi.bilibili.com
 ## 网易云音乐
 music.163.com
 ## QQ音乐
-c.y.qq.com
-y.qq.com
-
-report.huatuo.qq.com
-182.254.21.72
-
-123.151.71.42
-140.207.128.32
-61.151.225.28
-14.215.140.65
-125.39.52.15
-182.254.88.156
-wns.y.qq.com
-isure.stream.qqmusic.qq.com
-log.tbs.qq.com
-cdn.ark.qq.com
-cfg.imtt.qq.com
+(^|\.)\w*qq\w*\.\w*$
 
 
 
