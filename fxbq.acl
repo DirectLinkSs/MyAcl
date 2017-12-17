@@ -15,15 +15,8 @@ bangumi.bilibili.com
 (^|\.)\.163\.com$
 
 ## QQ音乐
-(^|\.)qq\.com$
-m.y.qq.com
-c.y.qq.com
-stat.y.qq.com
-pingfore.qq.com
-pingtas.qq.com
-repot.huatuo.qq.com
-mi.gdt.qq.com
-stat.3g.music.qq.com
+(^|\.)\.qq\.com$
+
 
 
 ## 优酷
