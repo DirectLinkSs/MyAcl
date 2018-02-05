@@ -3,3 +3,6 @@
 
 [proxy_list]
 #代理列表
+app.bilibili.com
+www.bilibili.com
+bangumi.bilibili.com
